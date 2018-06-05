@@ -1,0 +1,43 @@
+body {
+	background-color: #CDB38B!important;
+}
+
+svg {
+	height: 500px;
+	width: 860px;
+	margin: auto;
+}
+
+
+.GameName {
+ 	font-family: 'Calligraph', arial;
+	float: left;
+	font-size:2.5rem;
+	color: #FFFFFF;
+}
+
+header {
+	margin-top: 3rem;
+}
+
+section {
+	margin-top: 2rem;
+}
+
+
+.btn {
+	background:url(../img/dictionary.svg);
+
+	width: 3rem;
+	height:3rem;
+
+}
+
+.btn:hover
+{
+
+
+transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+}
